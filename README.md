@@ -38,5 +38,9 @@ The digital twin integrates:
 
 ---
 
+## 📧 Contact
+
+Created by **[Kadir Meriç KAYA]**  
+Feel free to connect on [LinkedIn](www.linkedin.com/in/kadir-meriç-kaya22)
 
 
