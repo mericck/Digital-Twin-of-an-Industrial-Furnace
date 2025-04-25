@@ -1,4 +1,3 @@
-# Digital-Twin-of-an-Industrial-Furnace
 # 🔥 Digital Twin of an Industrial Furnace
 
 A digital twin model of an industrial furnace built in MATLAB Simscape to simulate, monitor, and optimize the temperature profile of an object moving through the furnace. This project aims to support energy-efficient heating by enabling data-driven process optimization.
