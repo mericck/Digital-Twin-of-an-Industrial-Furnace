@@ -28,10 +28,6 @@ The digital twin integrates:
 
 ---
 
-## 📊 Simulation Preview
-
-*To be added after Day 2: Screenshots, sample plots, or GIFs from the Simscape model.*
-
 ---
 
 ## 🧰 Tools & Technologies
